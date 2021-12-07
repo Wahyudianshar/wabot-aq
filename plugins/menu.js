@@ -44,8 +44,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ Grup Official: https://chat.whatsapp.com/KHVAnCItEvVAInC18iGEZH 
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
